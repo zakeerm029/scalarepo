@@ -1,2 +1,2 @@
 # scalarepo
-scala-repository
+scala-repository for only scala code
